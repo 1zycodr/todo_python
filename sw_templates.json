@@ -1,0 +1,1 @@
+[{"class": "ToDoItem", "heading": "heading", "done": false}, {"class": "ToDoItem", "heading": "qfwq", "done": true}, {"class": "ToBuyItem", "heading": "Item", "done": true, "price": 1000}, {"class": "ToReadItem", "heading": "Book", "done": true, "price": "link.com"}, {"class": "ToReadItem", "heading": "name", "done": false, "price": "li"}]
